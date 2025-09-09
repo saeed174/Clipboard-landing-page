@@ -301,7 +301,7 @@ footer .icons{
     justify-content: space-between;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 700px) {
     body{
         background-image: url(./images/bg-header-mobile.png);
         background-repeat: no-repeat;
